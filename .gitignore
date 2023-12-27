@@ -8,3 +8,5 @@ request_audios/*
 request_images/*
 saved_audios/*
 saved_images/*
+
+!**gitkeep 
